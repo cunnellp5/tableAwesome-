@@ -1,5 +1,9 @@
 body {
-background-color:#66FF00;
+    background-color: #66FF00;
+}
+
+.dash {
+    color: red;
 }
 
 .dills-div {
